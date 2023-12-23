@@ -1,2 +1,4 @@
 # coding
-모바일 SW 개인 프로젝트
+React Native to do list 앱 프로젝트 
+
+
